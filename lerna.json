@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "history",
+    "history-browser",
+    "route-recognizer",
+    "router",
+    "templating-router"
+  ],
+  "version": "independent"
+}
