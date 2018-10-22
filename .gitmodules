@@ -1,0 +1,99 @@
+[submodule "router"]
+	path = router
+	url = https://github.com/aurelia/router.git
+[submodule "templating-router"]
+	path = templating-router
+	url = https://github.com/aurelia/templating-router.git
+[submodule "templating-binding"]
+	path = templating-binding
+	url = https://github.com/aurelia/templating-binding.git
+[submodule "templating"]
+	path = templating
+	url = https://github.com/aurelia/templating.git
+[submodule "binding"]
+	path = binding
+	url = https://github.com/aurelia/binding.git
+[submodule "framework"]
+	path = framework
+	url = https://github.com/aurelia/framework.git
+[submodule "bootstrapper"]
+	path = bootstrapper
+	url = https://github.com/aurelia/bootstrapper.git
+[submodule "event-aggregator"]
+	path = event-aggregator
+	url = https://github.com/aurelia/event-aggregator.git
+[submodule "task-queue"]
+	path = task-queue
+	url = https://github.com/aurelia/task-queue.git
+[submodule "history"]
+	path = history
+	url = https://github.com/aurelia/history.git
+[submodule "history-browser"]
+	path = history-browser
+	url = https://github.com/aurelia/history-browser.git
+[submodule "route-recognizer"]
+	path = route-recognizer
+	url = https://github.com/aurelia/route-recognizer.git
+[submodule "pal"]
+	path = pal
+	url = https://github.com/aurelia/pal.git
+[submodule "pal-browser"]
+	path = pal-browser
+	url = https://github.com/aurelia/pal-browser.git
+[submodule "loader"]
+	path = loader
+	url = https://github.com/aurelia/loader.git
+[submodule "polyfills"]
+	path = polyfills
+	url = https://github.com/aurelia/polyfills.git
+[submodule "templating-resources"]
+	path = templating-resources
+	url = https://github.com/aurelia/templating-resources.git
+[submodule "dependency-injection"]
+	path = dependency-injection
+	url = https://github.com/aurelia/dependency-injection.git
+[submodule "path"]
+	path = path
+	url = https://github.com/aurelia/path.git
+[submodule "metadata"]
+	path = metadata
+	url = https://github.com/aurelia/metadata.git
+[submodule "logging"]
+	path = logging
+	url = https://github.com/aurelia/logging.git
+[submodule "loader-default"]
+	path = loader-default
+	url = https://github.com/aurelia/loader-default.git
+[submodule "loader-esm"]
+	path = loader-esm
+	url = https://github.com/aurelia/loader-esm.git
+[submodule "logging-console"]
+	path = logging-console
+	url = https://github.com/aurelia/logging-console.git
+[submodule "store"]
+	path = store
+	url = https://github.com/aurelia/store.git
+[submodule "i18n"]
+	path = i18n
+	url = https://github.com/aurelia/i18n.git
+[submodule "webpack-plugin"]
+	path = webpack-plugin
+	url = https://github.com/aurelia/webpack-plugin.git
+[submodule "validation"]
+	path = validation
+	url = https://github.com/aurelia/validation.git
+[submodule "dialog"]
+	path = dialog
+	url = https://github.com/aurelia/dialog.git
+[submodule "testing"]
+	path = testing
+	url = https://github.com/aurelia/testing.git
+[submodule "fetch-client"]
+	path = fetch-client
+	url = https://github.com/aurelia/fetch-client.git
+[submodule "animator-css"]
+	path = animator-css
+	url = https://github.com/aurelia/animator-css.git
+[submodule "loader-webpack"]
+	path = loader-webpack
+	url = https://github.com/aurelia/loader-webpack.git
